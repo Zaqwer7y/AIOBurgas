@@ -1,1 +1,11 @@
 E:\Visual Studio Projects\Dell Projects\NOIS\NOISSystem\bin\Debug\NOISSystem.exe.config
+C:\Users\User\Desktop\NOIS project\AIOBurgas\AIOBurgas.git\trunk\NOIS\NOISSystem\bin\Debug\NOISSystem.exe.config
+C:\Users\User\Desktop\NOIS project\AIOBurgas\AIOBurgas.git\trunk\NOIS\NOISSystem\obj\Debug\AIOBurgas.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\NOIS project\AIOBurgas\AIOBurgas.git\trunk\NOIS\NOISSystem\obj\Debug\NOISSystem.Forms.BlueZoneForm.resources
+C:\Users\User\Desktop\NOIS project\AIOBurgas\AIOBurgas.git\trunk\NOIS\NOISSystem\obj\Debug\NOISSystem.Forms.MainForm.resources
+C:\Users\User\Desktop\NOIS project\AIOBurgas\AIOBurgas.git\trunk\NOIS\NOISSystem\obj\Debug\NOISSystem.Forms.TaxiForm.resources
+C:\Users\User\Desktop\NOIS project\AIOBurgas\AIOBurgas.git\trunk\NOIS\NOISSystem\obj\Debug\NOISSystem.Properties.Resources.resources
+C:\Users\User\Desktop\NOIS project\AIOBurgas\AIOBurgas.git\trunk\NOIS\NOISSystem\obj\Debug\NOISSystem.Forms.PublicServicesForm.resources
+C:\Users\User\Desktop\NOIS project\AIOBurgas\AIOBurgas.git\trunk\NOIS\NOISSystem\obj\Debug\NOISSystem.Forms.TransportForm.resources
+C:\Users\User\Desktop\NOIS project\AIOBurgas\AIOBurgas.git\trunk\NOIS\NOISSystem\obj\Debug\AIOBurgas.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\NOIS project\AIOBurgas\AIOBurgas.git\trunk\NOIS\NOISSystem\obj\Debug\NOISSystem.exe.licenses
